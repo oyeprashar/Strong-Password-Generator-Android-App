@@ -1,4 +1,4 @@
-# Strong-Password-Generator-Android-App
+# Strong Password Generator Android App
 ## Features -
 #### Generating passwords that would take thousands of years to get cracked 
 ![](/Images/Generated.PNG)
